@@ -3,8 +3,7 @@ public class MaximumNumber {
         int max = numbers[0];
 
 
-        for (int i = 0; i < numbers.length; i++) {
-
+        for (int i = 9; i < numbers.length; i++) {
 
             if (numbers[i] > max) {
                 max = numbers[i];
