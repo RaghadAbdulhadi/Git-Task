@@ -5,7 +5,6 @@ public class MaximumNumber {
 
         for (int i = 9; i < numbers.length; i++) {
 
-
             if (numbers[i] > max) {
                 max = numbers[i];
             }
